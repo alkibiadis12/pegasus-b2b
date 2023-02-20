@@ -1,0 +1,257 @@
+{
+  "customerID": 1,
+  "customerName": "JOHN ALEXIADIS T.A",
+  "totalBookings": 5,
+  "totalEarnings": 1234,
+  "activeBookings": 2,
+  "bookingsArray": [
+    {
+      "bookingId": 87654356,
+      "status": "optional",
+      "deadlineDate": "10/01/2023",
+      "price": "190.00",
+      "comment": "This is a dummy comment",
+      "fullDate": "10/01/2023",
+      "cruise_id": 0,
+      "departs_return_id": 1,
+      "boarding_locations_id": 0,
+      "peopleCounter": {
+        "adults": 5,
+        "seniors": 0,
+        "children": 0,
+        "infants": 0
+      },
+      "details": [
+        {
+          "detailsId": 0,
+          "firstName": "Lindsey",
+          "lastName": "Stroud",
+          "email": "lindsey.stroud@gmail.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 1,
+          "firstName": "Sarah",
+          "lastName": "Black",
+          "email": "antbokoff@coughone.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 2,
+          "firstName": "Walter",
+          "lastName": "White",
+          "email": "punkangel@boranora.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 3,
+          "firstName": "Jesse",
+          "lastName": "Pinkman",
+          "email": "cbrown9956@rightchild.us",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 4,
+          "firstName": "Skyler",
+          "lastName": "White",
+          "email": "azlum0@ulummky.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        }
+      ]
+    },
+    {
+      "bookingId": 87654357,
+      "status": "optional",
+      "deadlineDate": "10/01/2023",
+      "price": "114.00",
+      "comment": "This is a dummy comment 1",
+      "fullDate": "10/01/2023",
+      "cruise_id": 0,
+      "departs_return_id": 1,
+      "boarding_locations_id": 0,
+      "peopleCounter": {
+        "adults": 3,
+        "seniors": 0,
+        "children": 0,
+        "infants": 0
+      },
+      "details": [
+        {
+          "detailsId": 0,
+          "firstName": "George",
+          "lastName": "Soros",
+          "email": "nesiknatasha@ffo.kr",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 1,
+          "firstName": "Naruto",
+          "lastName": "Uzumaki",
+          "email": "qaw611dc@ulummky.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 2,
+          "firstName": "Sasuke",
+          "lastName": "Uchiha",
+          "email": "zemaniyaz@email-temp.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        }
+      ]
+    },
+    {
+      "bookingId": 87654358,
+      "status": "completed",
+      "deadlineDate": "10/01/2023",
+      "price": "114.00",
+      "comment": "",
+      "fullDate": "10/01/2023",
+      "cruise_id": 0,
+      "departs_return_id": 1,
+      "boarding_locations_id": 0,
+      "peopleCounter": {
+        "adults": 3,
+        "seniors": 0,
+        "children": 0,
+        "infants": 0
+      },
+      "details": [
+        {
+          "detailsId": 0,
+          "firstName": "Henry",
+          "lastName": "Kissinger",
+          "email": "ricardo2041@ulummky.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 1,
+          "firstName": "Ichigo",
+          "lastName": "Kurosaki",
+          "email": "blacc2@cggup.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 2,
+          "firstName": "Byakuya",
+          "lastName": "Kuchiki",
+          "email": "bugfirefly@coughone.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        }
+      ]
+    },
+    {
+      "bookingId": 87654359,
+      "status": "completed",
+      "deadlineDate": "10/01/2023",
+      "price": "114.00",
+      "comment": "OK",
+      "fullDate": "10/01/2023",
+      "cruise_id": 0,
+      "departs_return_id": 1,
+      "boarding_locations_id": 0,
+      "peopleCounter": {
+        "adults": 3,
+        "seniors": 0,
+        "children": 0,
+        "infants": 0
+      },
+      "details": [
+        {
+          "detailsId": 0,
+          "firstName": "Klaus",
+          "lastName": "Schwab",
+          "email": "vineet@o0i.es",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 1,
+          "firstName": "Zaraki",
+          "lastName": "Kenpachi",
+          "email": "volginshura@gmailni.com",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 2,
+          "firstName": "Kisuke",
+          "lastName": "Urahara",
+          "email": "lovethem@qwfoqwfioqweipoq.ga",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        }
+      ]
+    },
+    {
+      "bookingId": 87654360,
+      "status": "canceled",
+      "deadlineDate": "10/01/2023",
+      "price": "114.00",
+      "comment": "This is a dummy comment AGAIN.",
+      "fullDate": "10/01/2023",
+      "cruise_id": 0,
+      "departs_return_id": 1,
+      "boarding_locations_id": 0,
+      "peopleCounter": {
+        "adults": 3,
+        "seniors": 0,
+        "children": 0,
+        "infants": 0
+      },
+      "details": [
+        {
+          "detailsId": 0,
+          "firstName": "Yuval Noah",
+          "lastName": "Harari",
+          "email": "devochka722@rightchild.us",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 1,
+          "firstName": "Hatake",
+          "lastName": "Kakashi",
+          "email": "chabann@ebarg.net",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        },
+        {
+          "detailsId": 2,
+          "firstName": "Madara",
+          "lastName": "Uchiha",
+          "email": "szipard@qwfoqwfioqweipoq.ga",
+          "phoneNumber": "6903287243",
+          "dateOfBirth": "12/5/1994",
+          "nationality": { "name": "Italy", "id": 112 }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1052 @@
+[
+  {
+    "cruise_id": 0,
+    "boarding_locations_id": 0,
+    "availableSeatsPerDay": [
+      {
+        "fullDate": "24/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "24",
+        "availableSeats": 19,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "25/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "25",
+        "availableSeats": 13,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "26/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "26",
+        "availableSeats": 5,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "27/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "27",
+        "availableSeats": 4,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "28/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "28",
+        "availableSeats": 2,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "29/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "29",
+        "availableSeats": 25,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "30/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "30",
+        "availableSeats": 12,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 0 }
+        ]
+      },
+      {
+        "fullDate": "31/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "31",
+        "availableSeats": 44,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 25 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 9 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 10 }
+        ]
+      },
+      {
+        "fullDate": "01/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "01",
+        "availableSeats": 22,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 15 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "02/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "02",
+        "availableSeats": 15,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "03/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "03",
+        "availableSeats": 8,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 7 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "04/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "04",
+        "availableSeats": "4",
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "cruise_id": 0,
+    "boarding_locations_id": 1,
+    "availableSeatsPerDay": [
+      {
+        "fullDate": "24/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "24",
+        "availableSeats": 19,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "25/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "25",
+        "availableSeats": 13,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "26/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "26",
+        "availableSeats": 5,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "27/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "27",
+        "availableSeats": 4,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "28/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "28",
+        "availableSeats": 2,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "29/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "29",
+        "availableSeats": 25,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "30/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "30",
+        "availableSeats": 12,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 0 }
+        ]
+      },
+      {
+        "fullDate": "31/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "31",
+        "availableSeats": 44,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 25 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 9 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 10 }
+        ]
+      },
+      {
+        "fullDate": "01/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "01",
+        "availableSeats": 22,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 15 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "02/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "02",
+        "availableSeats": 15,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "03/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "03",
+        "availableSeats": 8,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 7 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "04/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "04",
+        "availableSeats": "4",
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "cruise_id": 0,
+    "boarding_locations_id": 2,
+    "availableSeatsPerDay": [
+      {
+        "fullDate": "24/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "24",
+        "availableSeats": 19,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "25/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "25",
+        "availableSeats": 13,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "26/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "26",
+        "availableSeats": 5,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "27/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "27",
+        "availableSeats": 4,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "28/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "28",
+        "availableSeats": 2,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "29/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "29",
+        "availableSeats": 25,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "30/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "30",
+        "availableSeats": 12,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 0 }
+        ]
+      },
+      {
+        "fullDate": "31/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "31",
+        "availableSeats": 44,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 25 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 9 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 10 }
+        ]
+      },
+      {
+        "fullDate": "01/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "01",
+        "availableSeats": 22,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 15 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "02/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "02",
+        "availableSeats": 15,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "03/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "03",
+        "availableSeats": 8,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 7 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "04/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "04",
+        "availableSeats": "4",
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "cruise_id": 0,
+    "boarding_locations_id": 3,
+    "availableSeatsPerDay": [
+      {
+        "fullDate": "24/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "24",
+        "availableSeats": 19,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "25/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "25",
+        "availableSeats": 13,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "26/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "26",
+        "availableSeats": 5,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "27/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "27",
+        "availableSeats": 4,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "28/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "28",
+        "availableSeats": 2,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "29/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "29",
+        "availableSeats": 25,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "30/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "30",
+        "availableSeats": 12,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 0 }
+        ]
+      },
+      {
+        "fullDate": "31/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "31",
+        "availableSeats": 44,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 25 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 9 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 10 }
+        ]
+      },
+      {
+        "fullDate": "01/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "01",
+        "availableSeats": 22,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 15 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "02/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "02",
+        "availableSeats": 15,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "03/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "03",
+        "availableSeats": 8,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 7 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "04/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "04",
+        "availableSeats": "4",
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "cruise_id": 1,
+    "boarding_locations_id": 0,
+    "availableSeatsPerDay": [
+      {
+        "fullDate": "24/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "24",
+        "availableSeats": 19,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "25/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "25",
+        "availableSeats": 13,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "26/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "26",
+        "availableSeats": 5,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "27/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "27",
+        "availableSeats": 4,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "28/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "28",
+        "availableSeats": 2,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "29/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "29",
+        "availableSeats": 25,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "30/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "30",
+        "availableSeats": 12,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 0 }
+        ]
+      },
+      {
+        "fullDate": "31/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "31",
+        "availableSeats": 44,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 25 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 9 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 10 }
+        ]
+      },
+      {
+        "fullDate": "01/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "01",
+        "availableSeats": 22,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 15 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "02/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "02",
+        "availableSeats": 15,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "03/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "03",
+        "availableSeats": 8,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 7 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "04/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "04",
+        "availableSeats": "4",
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "cruise_id": 1,
+    "boarding_locations_id": 1,
+    "availableSeatsPerDay": [
+      {
+        "fullDate": "24/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "24",
+        "availableSeats": 19,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "25/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "25",
+        "availableSeats": 13,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "26/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "26",
+        "availableSeats": 5,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "27/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "27",
+        "availableSeats": 4,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "28/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "28",
+        "availableSeats": 2,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "29/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "29",
+        "availableSeats": 25,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "30/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "30",
+        "availableSeats": 12,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 0 }
+        ]
+      },
+      {
+        "fullDate": "31/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "31",
+        "availableSeats": 44,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 25 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 9 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 10 }
+        ]
+      },
+      {
+        "fullDate": "01/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "01",
+        "availableSeats": 22,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 15 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "02/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "02",
+        "availableSeats": 15,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "03/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "03",
+        "availableSeats": 8,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 7 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "04/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "04",
+        "availableSeats": "4",
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "cruise_id": 1,
+    "boarding_locations_id": 2,
+    "availableSeatsPerDay": [
+      {
+        "fullDate": "24/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "24",
+        "availableSeats": 19,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "25/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "25",
+        "availableSeats": 13,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 4 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "26/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "26",
+        "availableSeats": 5,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "27/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "27",
+        "availableSeats": 4,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "28/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "28",
+        "availableSeats": 2,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "29/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "29",
+        "availableSeats": 25,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 8 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 7 }
+        ]
+      },
+      {
+        "fullDate": "30/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "30",
+        "availableSeats": 12,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 10 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 0 }
+        ]
+      },
+      {
+        "fullDate": "31/01/2023",
+        "year": "2023",
+        "month": "1",
+        "day": "31",
+        "availableSeats": 44,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 25 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 9 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 10 }
+        ]
+      },
+      {
+        "fullDate": "01/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "01",
+        "availableSeats": 22,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 15 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 2 }
+        ]
+      },
+      {
+        "fullDate": "02/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "02",
+        "availableSeats": 15,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 5 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 5 }
+        ]
+      },
+      {
+        "fullDate": "03/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "03",
+        "availableSeats": 8,
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 0 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 7 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      },
+      {
+        "fullDate": "04/02/2023",
+        "year": "2023",
+        "month": "2",
+        "day": "04",
+        "availableSeats": "4",
+        "availableSeatsPerTrip": [
+          { "departReturnId": 0, "availableSeatsPerTrip": 2 },
+          { "departReturnId": 1, "availableSeatsPerTrip": 1 },
+          { "departReturnId": 2, "availableSeatsPerTrip": 1 }
+        ]
+      }
+    ]
+  }
+]

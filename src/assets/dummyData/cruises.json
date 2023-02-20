@@ -1,0 +1,171 @@
+[
+  {
+    "cruise_id": 0,
+    "name": "ΥΔΡΑ ΣΠΕΤΣΕΣ",
+    "boarding_locations": [
+      {
+        "id": 0,
+        "startLocationId": 0,
+        "portName": "ΤΟΛΟ",
+        "adultPrice": 38,
+        "childPrice": 19,
+        "seniorPrice": 25,
+        "infantPrice": 0,
+        "urlWithDetails": "https://www.pegasus-cruises.gr/tours-pegasus/%cf%85%ce%b4%cf%81%ce%b1-%cf%83%cf%80%ce%b5%cf%84%cf%83%ce%b5%cf%83-%ce%b1%cf%80%ce%bf-%cf%84%ce%bf%ce%bb%ce%bf/",
+        "departs_return": [
+          { "id": 0, "departureTime": "8:00", "returnTime": "19:15" },
+          { "id": 1, "departureTime": "9:00", "returnTime": "20:15" },
+          { "id": 2, "departureTime": "10:00", "returnTime": "21:15" }
+        ],
+
+        "oneDayTrip": "true",
+        "returnAt": "ΤΟΛΟ",
+        "bus": "false",
+        "pickUpPlace": [],
+        "imgUrl": "https://picsum.photos/600/200"
+      },
+      {
+        "id": 1,
+        "startLocationId": 1,
+        "portName": "ΑΣΤΡΟΣ",
+        "adultPrice": 38,
+        "childPrice": 19,
+        "seniorPrice": 25,
+        "infantPrice": 0,
+        "urlWithDetails": "https://www.pegasus-cruises.gr/tours-pegasus/%ce%b1%cf%83%cf%84%cf%81%ce%bf%cf%83-%cf%85%ce%b4%cf%81%ce%b1/",
+        "departs_return": [
+          { "id": 0, "departureTime": "8:00", "returnTime": "19:15" },
+          { "id": 1, "departureTime": "9:00", "returnTime": "20:15" },
+          { "id": 2, "departureTime": "10:00", "returnTime": "21:15" }
+        ],
+        "oneDayTrip": "true",
+        "returnAt": "ΑΣΤΡΟΣ",
+        "bus": "false",
+        "pickUpPlace": [],
+        "imgUrl": "https://picsum.photos/600/200"
+      },
+      {
+        "id": 2,
+        "startLocationId": 2,
+        "portName": "ΤΥΡΟ",
+        "adultPrice": 35,
+        "childPrice": 18,
+        "seniorPrice": 25,
+        "infantPrice": 0,
+        "urlWithDetails": "https://www.pegasus-cruises.gr/tours-pegasus/%cf%84%cf%85%cf%81%ce%bf-%cf%85%ce%b4%cf%81%ce%b1/",
+        "departureTime": "8:30",
+        "departs_return": [
+          { "id": 0, "departureTime": "8:00", "returnTime": "19:15" },
+          { "id": 1, "departureTime": "9:00", "returnTime": "20:15" },
+          { "id": 2, "departureTime": "10:00", "returnTime": "21:15" }
+        ],
+        "oneDayTrip": "true",
+        "returnAt": "ΤΥΡΟ",
+        "bus": "false",
+        "pickUpPlace": [],
+        "imgUrl": "https://picsum.photos/600/200"
+      },
+      {
+        "id": 3,
+        "startLocationId": 3,
+        "portName": "ΝΑΥΠΛΙΟ",
+        "adultPrice": 45,
+        "childPrice": 26,
+        "seniorPrice": 25,
+        "infantPrice": 0,
+        "urlWithDetails": "https://www.pegasus-cruises.gr/tours-pegasus/%cf%85%ce%b4%cf%81%ce%b1-%cf%83%cf%80%ce%b5%cf%84%cf%83%ce%b5%cf%83-%ce%b1%cf%80%ce%bf-%cf%84%ce%bf%ce%bb%ce%bf/",
+        "departureTime": "8:30",
+        "departs_return": [
+          { "id": 0, "departureTime": "8:00", "returnTime": "19:15" },
+          { "id": 1, "departureTime": "9:00", "returnTime": "20:15" },
+          { "id": 2, "departureTime": "10:00", "returnTime": "21:15" }
+        ],
+        "imgUrl": "https://picsum.photos/600/200",
+        "oneDayTrip": "true",
+        "returnAt": "ΝΑΥΠΛΙΟ",
+        "bus": "true",
+        "pickUpPlace": [
+          {
+            "id": 1,
+            "name": "Έξω από το τουριστικό γραφείο ΖΑΦΕΙΡΗΣ, οδός ΣΙΔΗΡΑΣ ΜΕΡΑΡΧΙΑΣ"
+          },
+          {
+            "id": 2,
+            "name": "στο Π, το πάρκινγκ μπροστά στην πλατεία Φιλελλήνων"
+          },
+          {
+            "id": 3,
+            "name": "Στο περίπτερο στην πλατεία 3 Ναυάρχων, απέναντι από το άγαλμα του Καποδίστρια – ακριβώς πριν το ΚΤΕΛ."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cruise_id": 1,
+    "name": "ΣΚΙΑΘΟΣ ΚΟΥΚΟΥΝΑΡΙΕΣ",
+    "boarding_locations": [
+      {
+        "id": 0,
+        "startLocationId": 4,
+        "portName": "ΓΛΥΦΑ",
+        "adultPrice": 28,
+        "childPrice": 15,
+        "seniorPrice": 25,
+        "infantPrice": 0,
+        "urlWithDetails": "https://www.pegasus-cruises.gr/tours-pegasus/%cf%83%ce%ba%ce%b9%ce%b1%ce%b8%ce%bf%cf%83-%ce%ba%ce%bf%cf%85%ce%ba%ce%bf%cf%85%ce%bd%ce%b1%cf%81%ce%b9%ce%b5%cf%83-%ce%b1%cf%80%ce%bf-%ce%b3%ce%bb%cf%85%cf%86%ce%b1/",
+        "departs_return": [
+          { "id": 0, "departureTime": "8:00", "returnTime": "19:15" },
+          { "id": 1, "departureTime": "9:00", "returnTime": "20:15" },
+          { "id": 2, "departureTime": "10:00", "returnTime": "21:15" }
+        ],
+        "oneDayTrip": "true",
+        "returnAt": "ΓΛΥΦΑ",
+        "bus": "false",
+        "pickUpPlace": [],
+        "imgUrl": "https://picsum.photos/600/200"
+      },
+      {
+        "id": 1,
+        "startLocationId": 5,
+        "portName": "ΠΕΥΚΙ",
+        "adultPrice": 20,
+        "childPrice": 14,
+        "seniorPrice": 25,
+        "infantPrice": 0,
+        "urlWithDetails": "https://www.pegasus-cruises.gr/tours-pegasus/%cf%83%ce%ba%ce%b9%ce%b1%ce%b8%ce%bf%cf%83-%ce%ba%ce%bf%cf%85%ce%ba%ce%bf%cf%85%ce%bd%ce%b1%cf%81%ce%b9%ce%b5%cf%83-%ce%b1%cf%80%ce%bf-%cf%80%ce%b5%cf%85%ce%ba%ce%b9/",
+        "departureTime": "9:45",
+        "departs_return": [
+          { "id": 0, "departureTime": "8:00", "returnTime": "19:15" },
+          { "id": 1, "departureTime": "9:00", "returnTime": "20:15" },
+          { "id": 2, "departureTime": "10:00", "returnTime": "21:15" }
+        ],
+        "oneDayTrip": "true",
+        "returnAt": "ΠΕΥΚΙ",
+        "bus": "false",
+        "pickUpPlace": [],
+        "imgUrl": "https://picsum.photos/600/200"
+      },
+      {
+        "id": 2,
+        "startLocationId": 6,
+        "portName": "ΚΑΜΕΝΑ ΒΟΥΡΛΑ",
+        "adultPrice": 50,
+        "childPrice": 25,
+        "seniorPrice": 25,
+        "infantPrice": 0,
+        "urlWithDetails": "https://www.pegasus-cruises.gr/tours-pegasus/%cf%83%ce%ba%ce%b9%ce%b1%ce%b8%ce%bf%cf%83-%ce%ba%ce%bf%cf%85%ce%ba%ce%bf%cf%85%ce%bd%ce%b1%cf%81%ce%b9%ce%b5%cf%83-%ce%b1%cf%80%ce%bf-%ce%ba%ce%b1%ce%bc%ce%b5%ce%bd%ce%b1-%ce%b2%ce%bf%cf%85%cf%81/",
+        "departs_return": [
+          { "id": 0, "departureTime": "8:00", "returnTime": "19:15" },
+          { "id": 1, "departureTime": "9:00", "returnTime": "20:15" },
+          { "id": 2, "departureTime": "10:00", "returnTime": "21:15" }
+        ],
+        "oneDayTrip": "true",
+        "returnAt": "ΚΑΜΕΝΑ ΒΟΥΡΛΑ",
+        "bus": "false",
+        "pickUpPlace": [],
+        "imgUrl": "https://picsum.photos/600/200"
+      }
+    ]
+  }
+]
